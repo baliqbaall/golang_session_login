@@ -1,0 +1,9 @@
+# Golang
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.sql
+.vscode/settings.json
